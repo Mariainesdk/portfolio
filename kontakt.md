@@ -20,5 +20,4 @@
 <li>Fyldtekst siden 1500-tallet</li>
 <li>Fyldtekst siden 1500-tallet</li>
 </ol>
-<hr>
 
